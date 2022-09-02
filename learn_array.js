@@ -30,6 +30,4 @@ console.log(list3);
 
 let list4 = ['orange','cheese','milk'];
 list4.shift();
-
-
 console.log(list4);
