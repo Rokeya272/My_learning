@@ -31,3 +31,11 @@ console.log(list3);
 let list4 = ['orange','cheese','milk'];
 list4.shift();
 console.log(list4);
+
+//concat method
+
+let fruit = ['orange','banana'];
+let meat = ['chicken','mutton','beef'];
+
+console.log(fruit.concat(meat));
+console.log(meat.concat(fruit));
